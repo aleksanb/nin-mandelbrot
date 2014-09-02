@@ -1,0 +1,9 @@
+[
+    {
+        "type": "Mandelbrot",
+        "displayName": "Mandelbrot Fractal",
+        "startFrame": 0,
+        "endFrame": 20000,
+        "color": "#ffaa66"
+    }
+]
