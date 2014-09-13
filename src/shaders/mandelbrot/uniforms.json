@@ -1,5 +1,6 @@
 {
     "time": { "type": "f", "value": null },
-    "resolution": { "type": "v2", "value": null }
+    "resolution": { "type": "v2", "value": null },
+    "tExplosion": { "type": "t", "value": null }
 }
 
